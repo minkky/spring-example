@@ -2,3 +2,5 @@ blog/*
 project/*
 project1/*
 test/*
+**/.idea/**
+**/target/**

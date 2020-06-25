@@ -10,7 +10,7 @@
     </appender>
 
     <!-- Application Loggers -->
-    <logger name="com.spring.blog1">
+    <logger name="com.spring.example">
         <level value="info"/>
     </logger>
 

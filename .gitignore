@@ -4,3 +4,5 @@ project1/*
 test/*
 **/.idea/**
 **/target/**
+**/out/**
+**/lib/**
